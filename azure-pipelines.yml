@@ -16,16 +16,17 @@ steps:
   displayName: 'Install Node.js'
 
 - script: |
-    npm install
+    npm install --only=prod
     npm run build
-    rm -Rf node_modules
   displayName: 'npm install and build'
 
 - task: CopyFiles@2
   displayName: 'Copying files'
   inputs:
     SourceFolder: '$(system.defaultworkingdirectory)'
-    Contents: '**/*'
+    Contents: |
+      **\*.js
+      package.json
     TargetFolder: '$(build.artifactstagingdirectory)'
 
 - task: PublishBuildArtifacts@1
