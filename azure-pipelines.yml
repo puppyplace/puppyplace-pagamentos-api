@@ -24,7 +24,7 @@ steps:
   displayName: 'Copying files'
   inputs:
     SourceFolder: '$(system.defaultworkingdirectory)'
-    Contents: '**/dist/*'
+    Contents: '*'
     TargetFolder: '$(build.artifactstagingdirectory)'
 
 - task: PublishBuildArtifacts@1
