@@ -18,15 +18,14 @@ steps:
 - script: |
     npm install
     npm run build
+    rm -Rf node_modules
   displayName: 'npm install and build'
 
 - task: CopyFiles@2
   displayName: 'Copying files'
   inputs:
     SourceFolder: '$(system.defaultworkingdirectory)'
-    Contents: |
-      **\*.js
-      package.json
+    Contents: '**/*'
     TargetFolder: '$(build.artifactstagingdirectory)'
 
 - task: PublishBuildArtifacts@1
