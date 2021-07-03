@@ -1,0 +1,7 @@
+export enum StatusPagamentoJuno {
+  ACTIVE = 'ACTIVE',
+  CANCELLED = 'CANCELLED',
+  MANUAL_RECONCILIATION = 'MANUAL_RECONCILIATION',
+  FAILED = 'FAILED',
+  PAID = 'PAID',
+}

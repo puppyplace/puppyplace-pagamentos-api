@@ -1,0 +1,9 @@
+[
+  {"value": 1, "label": "Analfabeto"},
+  {"value": 2, "label": "Primeiro grau incompleto"},
+  {"value": 3, "label": "Primeiro grau completo"},
+  {"value": 4, "label": "Segundo grau incompleto"},
+  {"value": 5, "label": "Segundo grau completo"},
+  {"value": 6, "label": "Superior incompleto"},
+  {"value": 7, "label": "Superior completo"}
+]

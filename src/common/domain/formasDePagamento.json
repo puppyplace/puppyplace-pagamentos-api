@@ -1,0 +1,4 @@
+[
+  {"id": 1, "descricao": "Boleto Bancário", "chave": "BOLETO"},
+  {"id": 2, "descricao": "Cartão de Crédito", "chave": "CARTAO_CREDITO"}
+]

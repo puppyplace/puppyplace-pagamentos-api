@@ -1,0 +1,82 @@
+[
+  {
+    "value": 1,
+    "label": "SDS"
+  },
+  {
+    "value": 2,
+    "label": "SSP"
+  },
+  {
+    "value": 3,
+    "label": "PM"
+  },
+  {
+    "value": 4,
+    "label": "PC"
+  },
+  {
+    "value": 5,
+    "label": "CNT"
+  },
+  {
+    "value": 6,
+    "label": "DIC"
+  },
+  {
+    "value": 7,
+    "label": "CTPS"
+  },
+  {
+    "value": 8,
+    "label": "FGTS"
+  },
+  {
+    "value": 9,
+    "label": "IFP"
+  },
+  {
+    "value": 10,
+    "label": "IPF"
+  },
+  {
+    "value": 11,
+    "label": "IML"
+  },
+  {
+    "value": 12,
+    "label": "MTE"
+  },
+  {
+    "value": 13,
+    "label": "MMA"
+  },
+  {
+    "value": 14,
+    "label": "MAE"
+  },
+  {
+    "value": 15,
+    "label": "MEX"
+  },
+  {
+    "value": 16,
+    "label": "POF"
+  },
+  {
+    "value": 17,
+    "label": "POM"
+  },
+  {
+    "value": 18,
+    "label": "SES"
+  },
+  {
+    "value": 19,
+    "label": "SJS"
+  },
+  {
+    "value": 20,
+    "label": "SJTS"
+  }
+]

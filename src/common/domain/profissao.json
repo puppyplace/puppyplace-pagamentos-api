@@ -1,0 +1,470 @@
+[
+  {
+    "value": 1,
+    "label": "Administrador"
+  },
+  {
+    "value": 2,
+    "label": "Advogado"
+  },
+  {
+    "value": 3,
+    "label": "Agente de viagem"
+  },
+  {
+    "value": 4,
+    "label": "Agente funerário"
+  },
+  {
+    "value": 5,
+    "label": "Agrônomo"
+  },
+  {
+    "value": 6,
+    "label": "Alfaiate"
+  },
+  {
+    "value": 7,
+    "label": "Analista de Sistemas"
+  },
+  {
+    "value": 8,
+    "label": "Aposentado"
+  },
+  {
+    "value": 9,
+    "label": "Arqueólogo"
+  },
+  {
+    "value": 10,
+    "label": "Arquiteto"
+  },
+  {
+    "value": 11,
+    "label": "Artista Plástico"
+  },
+  {
+    "value": 12,
+    "label": "Assistente Administrativo"
+  },
+  {
+    "value": 13,
+    "label": "Assistente Social"
+  },
+  {
+    "value": 14,
+    "label": "Astrônomo"
+  },
+  {
+    "value": 15,
+    "label": "Atleta e Técnico"
+  },
+  {
+    "value": 16,
+    "label": "Ator"
+  },
+  {
+    "value": 17,
+    "label": "Atuário"
+  },
+  {
+    "value": 18,
+    "label": "Auxiliar de escritório"
+  },
+  {
+    "value": 19,
+    "label": "Auxiliar de Laboratório"
+  },
+  {
+    "value": 20,
+    "label": "Bailarino"
+  },
+  {
+    "value": 21,
+    "label": "Bancário"
+  },
+  {
+    "value": 22,
+    "label": "Barbeiro"
+  },
+  {
+    "value": 23,
+    "label": "Bibliotecário"
+  },
+  {
+    "value": 24,
+    "label": "Biólogo e Biomédico"
+  },
+  {
+    "value": 25,
+    "label": "Cabeleireiro"
+  },
+  {
+    "value": 26,
+    "label": "Caixa"
+  },
+  {
+    "value": 27,
+    "label": "Cantor"
+  },
+  {
+    "value": 28,
+    "label": "Capitalista"
+  },
+  {
+    "value": 29,
+    "label": "Comandante"
+  },
+  {
+    "value": 30,
+    "label": "Comerciário"
+  },
+  {
+    "value": 31,
+    "label": "Comissário de bordo"
+  },
+  {
+    "value": 32,
+    "label": "Compositor"
+  },
+  {
+    "value": 33,
+    "label": "Comunicólogo"
+  },
+  {
+    "value": 34,
+    "label": "Contador"
+  },
+  {
+    "value": 35,
+    "label": "Coreógrafo"
+  },
+  {
+    "value": 36,
+    "label": "Corretor"
+  },
+  {
+    "value": 37,
+    "label": "Cozinheiro"
+  },
+  {
+    "value": 38,
+    "label": "Decorador"
+  },
+  {
+    "value": 39,
+    "label": "Demonstrador"
+  },
+  {
+    "value": 40,
+    "label": "Desenhista"
+  },
+  {
+    "value": 41,
+    "label": "Despachante"
+  },
+  {
+    "value": 42,
+    "label": "Diplomata"
+  },
+  {
+    "value": 43,
+    "label": "Diretor"
+  },
+  {
+    "value": 44,
+    "label": "Economista"
+  },
+  {
+    "value": 45,
+    "label": "Eletricista"
+  },
+  {
+    "value": 46,
+    "label": "Empregado doméstico"
+  },
+  {
+    "value": 47,
+    "label": "Empresário"
+  },
+  {
+    "value": 48,
+    "label": "Enfermeiro"
+  },
+  {
+    "value": 49,
+    "label": "Engenheiro"
+  },
+  {
+    "value": 50,
+    "label": "Espólio"
+  },
+  {
+    "value": 51,
+    "label": "Estagiário"
+  },
+  {
+    "value": 52,
+    "label": "Estatístico"
+  },
+  {
+    "value": 53,
+    "label": "Estivador"
+  },
+  {
+    "value": 54,
+    "label": "Farmacêutico"
+  },
+  {
+    "value": 55,
+    "label": "Faxineiro"
+  },
+  {
+    "value": 56,
+    "label": "Feirante"
+  },
+  {
+    "value": 57,
+    "label": "Fiscal"
+  },
+  {
+    "value": 58,
+    "label": "Físico"
+  },
+  {
+    "value": 59,
+    "label": "Fisioterapeuta"
+  },
+  {
+    "value": 60,
+    "label": "Fonoaudiólogo"
+  },
+  {
+    "value": 61,
+    "label": "Funcionário Público"
+  },
+  {
+    "value": 62,
+    "label": "Garçom"
+  },
+  {
+    "value": 63,
+    "label": "Garimpeiro"
+  },
+  {
+    "value": 64,
+    "label": "Geógrafo"
+  },
+  {
+    "value": 65,
+    "label": "Geólogo"
+  },
+  {
+    "value": 66,
+    "label": "Gerente"
+  },
+  {
+    "value": 67,
+    "label": "Governanta"
+  },
+  {
+    "value": 68,
+    "label": "Joalheiro"
+  },
+  {
+    "value": 69,
+    "label": "Jornaleiro"
+  },
+  {
+    "value": 70,
+    "label": "Jornalista"
+  },
+  {
+    "value": 71,
+    "label": "Juiz"
+  },
+  {
+    "value": 72,
+    "label": "Lanterneiro"
+  },
+  {
+    "value": 73,
+    "label": "Leiloeiro"
+  },
+  {
+    "value": 74,
+    "label": "Locutor"
+  },
+  {
+    "value": 75,
+    "label": "Manicure"
+  },
+  {
+    "value": 76,
+    "label": "Maquinista"
+  },
+  {
+    "value": 77,
+    "label": "Marinheiro"
+  },
+  {
+    "value": 78,
+    "label": "Matemático"
+  },
+  {
+    "value": 79,
+    "label": "Mecânico"
+  },
+  {
+    "value": 80,
+    "label": "Médico"
+  },
+  {
+    "value": 81,
+    "label": "Metalúrgico"
+  },
+  {
+    "value": 82,
+    "label": "Militar em geral"
+  },
+  {
+    "value": 83,
+    "label": "Militar reformado"
+  },
+  {
+    "value": 84,
+    "label": "Ministro"
+  },
+  {
+    "value": 85,
+    "label": "Modelo de Modas"
+  },
+  {
+    "value": 86,
+    "label": "Motorista"
+  },
+  {
+    "value": 87,
+    "label": "Museólogo"
+  },
+  {
+    "value": 88,
+    "label": "Músico"
+  },
+  {
+    "value": 89,
+    "label": "Nutricionista"
+  },
+  {
+    "value": 90,
+    "label": "Odontólogo"
+  },
+  {
+    "value": 91,
+    "label": "Outros"
+  },
+  {
+    "value": 92,
+    "label": "Pecuarista"
+  },
+  {
+    "value": 93,
+    "label": "Pedreiro"
+  },
+  {
+    "value": 94,
+    "label": "Pensionista"
+  },
+  {
+    "value": 95,
+    "label": "Pescador"
+  },
+  {
+    "value": 96,
+    "label": "Piloto"
+  },
+  {
+    "value": 97,
+    "label": "Pintor"
+  },
+  {
+    "value": 98,
+    "label": "Porteiro"
+  },
+  {
+    "value": 99,
+    "label": "Presidente"
+  },
+  {
+    "value": 100,
+    "label": "Procurador"
+  },
+  {
+    "value": 101,
+    "label": "Professor"
+  },
+  {
+    "value": 102,
+    "label": "Protético"
+  },
+  {
+    "value": 103,
+    "label": "Psicólogo"
+  },
+  {
+    "value": 104,
+    "label": "Publicitário"
+  },
+  {
+    "value": 105,
+    "label": "Químico"
+  },
+  {
+    "value": 106,
+    "label": "Relações Públicas"
+  },
+  {
+    "value": 107,
+    "label": "Sacerdote"
+  },
+  {
+    "value": 108,
+    "label": "Secretário"
+  },
+  {
+    "value": 109,
+    "label": "Securitário"
+  },
+  {
+    "value": 110,
+    "label": "Sociólogo"
+  },
+  {
+    "value": 111,
+    "label": "Supervisor"
+  },
+  {
+    "value": 112,
+    "label": "Tabelião"
+  },
+  {
+    "value": 113,
+    "label": "Técnico Contabil"
+  },
+  {
+    "value": 114,
+    "label": "Veterinário"
+  },
+  {
+    "value": 115,
+    "label": "Zootecnista"
+  },
+  {
+    "value": 116,
+    "label": "Estudante"
+  },
+  {
+    "value": 117,
+    "label": "Pedagogo"
+  }
+]

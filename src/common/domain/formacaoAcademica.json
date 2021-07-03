@@ -1,0 +1,614 @@
+[
+  {
+    "value": 1,
+    "label": "Administração"
+  },
+  {
+    "value": 2,
+    "label": "Agrimensura"
+  },
+  {
+    "value": 3,
+    "label": "Agroecologia"
+  },
+  {
+    "value": 4,
+    "label": "Agroindústria"
+  },
+  {
+    "value": 5,
+    "label": "Agronomia"
+  },
+  {
+    "value": 6,
+    "label": "Análise e Desenvolvimento de Sistemas"
+  },
+  {
+    "value": 7,
+    "label": "Aquacultura"
+  },
+  {
+    "value": 8,
+    "label": "Arqueologia"
+  },
+  {
+    "value": 9,
+    "label": "Arquitetura e Urbanismo"
+  },
+  {
+    "value": 10,
+    "label": "Arquivologia"
+  },
+  {
+    "value": 11,
+    "label": "Artes Visuais"
+  },
+  {
+    "value": 12,
+    "label": "Automação Industrial"
+  },
+  {
+    "value": 13,
+    "label": "Biblioteconomia"
+  },
+  {
+    "value": 14,
+    "label": "Biocombustíveis"
+  },
+  {
+    "value": 15,
+    "label": "Biomedicina"
+  },
+  {
+    "value": 16,
+    "label": "Biotecnologia"
+  },
+  {
+    "value": 17,
+    "label": "Cafeicultura"
+  },
+  {
+    "value": 18,
+    "label": "Ciência da Computação"
+  },
+  {
+    "value": 19,
+    "label": "Ciência dos Alimentos"
+  },
+  {
+    "value": 20,
+    "label": "Ciência dos materiais"
+  },
+  {
+    "value": 21,
+    "label": "Ciências Aeronáuticas"
+  },
+  {
+    "value": 22,
+    "label": "Ciências Atuariais"
+  },
+  {
+    "value": 23,
+    "label": "Ciências Biológicas"
+  },
+  {
+    "value": 24,
+    "label": "Ciências Contábeis"
+  },
+  {
+    "value": 25,
+    "label": "Ciências Econômicas"
+  },
+  {
+    "value": 26,
+    "label": "Ciências Sociais"
+  },
+  {
+    "value": 27,
+    "label": "Cinema e Audiovisual"
+  },
+  {
+    "value": 28,
+    "label": "Comércio Exterior"
+  },
+  {
+    "value": 29,
+    "label": "Construção de Edifícios"
+  },
+  {
+    "value": 30,
+    "label": "Construção de Estradas"
+  },
+  {
+    "value": 31,
+    "label": "Construção Naval"
+  },
+  {
+    "value": 32,
+    "label": "Cooperativismo"
+  },
+  {
+    "value": 33,
+    "label": "Cosmetologia"
+  },
+  {
+    "value": 34,
+    "label": "Dança"
+  },
+  {
+    "value": 35,
+    "label": "Design"
+  },
+  {
+    "value": 36,
+    "label": "Design de Jogos Digitais"
+  },
+  {
+    "value": 37,
+    "label": "Design de produto"
+  },
+  {
+    "value": 38,
+    "label": "Design gráfico"
+  },
+  {
+    "value": 39,
+    "label": "Direito"
+  },
+  {
+    "value": 40,
+    "label": "Drenagem e Irrigação"
+  },
+  {
+    "value": 41,
+    "label": "Educação Física"
+  },
+  {
+    "value": 42,
+    "label": "Energias Renováveis"
+  },
+  {
+    "value": 43,
+    "label": "Enfermagem"
+  },
+  {
+    "value": 44,
+    "label": "Engenharia Aeronáutica"
+  },
+  {
+    "value": 45,
+    "label": "Engenharia Agrícola"
+  },
+  {
+    "value": 46,
+    "label": "Engenharia Ambiental e Sanitária"
+  },
+  {
+    "value": 47,
+    "label": "Engenharia Cartográfica e de Agrimensura"
+  },
+  {
+    "value": 48,
+    "label": "Engenharia Civil"
+  },
+  {
+    "value": 49,
+    "label": "Engenharia de Alimentos"
+  },
+  {
+    "value": 50,
+    "label": "Engenharia de Bioprocessos"
+  },
+  {
+    "value": 51,
+    "label": "Engenharia de Computação"
+  },
+  {
+    "value": 52,
+    "label": "Engenharia de Controle e Automação"
+  },
+  {
+    "value": 53,
+    "label": "Engenharia de Fortificação e Construção"
+  },
+  {
+    "value": 54,
+    "label": "Engenharia de Materiais"
+  },
+  {
+    "value": 55,
+    "label": "Engenharia de Minas"
+  },
+  {
+    "value": 56,
+    "label": "Engenharia de Pesca"
+  },
+  {
+    "value": 57,
+    "label": "Engenharia de Petróleo"
+  },
+  {
+    "value": 58,
+    "label": "Engenharia de Produção"
+  },
+  {
+    "value": 59,
+    "label": "Engenharia de Telecomunicações"
+  },
+  {
+    "value": 60,
+    "label": "Engenharia Elétrica"
+  },
+  {
+    "value": 61,
+    "label": "Engenharia Eletrônica"
+  },
+  {
+    "value": 62,
+    "label": "Engenharia Florestal"
+  },
+  {
+    "value": 63,
+    "label": "Engenharia Mecânica"
+  },
+  {
+    "value": 64,
+    "label": "Engenharia Metalúrgica"
+  },
+  {
+    "value": 65,
+    "label": "Engenharia Naval"
+  },
+  {
+    "value": 66,
+    "label": "Engenharia Nuclear"
+  },
+  {
+    "value": 67,
+    "label": "Engenharia Química"
+  },
+  {
+    "value": 68,
+    "label": "Engenharia Têxtil"
+  },
+  {
+    "value": 69,
+    "label": "Enologia"
+  },
+  {
+    "value": 70,
+    "label": "Esporte e Lazer"
+  },
+  {
+    "value": 71,
+    "label": "Estatística"
+  },
+  {
+    "value": 72,
+    "label": "Eventos"
+  },
+  {
+    "value": 73,
+    "label": "Farmácia"
+  },
+  {
+    "value": 74,
+    "label": "Filosofia"
+  },
+  {
+    "value": 75,
+    "label": "Física"
+  },
+  {
+    "value": 76,
+    "label": "Fisioterapia"
+  },
+  {
+    "value": 77,
+    "label": "Fonoaudiologia"
+  },
+  {
+    "value": 78,
+    "label": "Fotografia"
+  },
+  {
+    "value": 79,
+    "label": "Fruticultura"
+  },
+  {
+    "value": 80,
+    "label": "Geografia"
+  },
+  {
+    "value": 81,
+    "label": "Geologia"
+  },
+  {
+    "value": 82,
+    "label": "Gestão Comercial"
+  },
+  {
+    "value": 83,
+    "label": "Gestão da Qualidade"
+  },
+  {
+    "value": 84,
+    "label": "Gestão da Tecnologia da Informação"
+  },
+  {
+    "value": 85,
+    "label": "Gestão de Petróleo e Gás"
+  },
+  {
+    "value": 86,
+    "label": "Gestão de Recursos Hídricos"
+  },
+  {
+    "value": 87,
+    "label": "Gestão de Segurança Privada"
+  },
+  {
+    "value": 88,
+    "label": "Gestão do Agronegócio"
+  },
+  {
+    "value": 89,
+    "label": "Gestão em Serviços Jurídicos e Notariais"
+  },
+  {
+    "value": 90,
+    "label": "Gestão Financeira"
+  },
+  {
+    "value": 91,
+    "label": "Gestão Hospitalar"
+  },
+  {
+    "value": 92,
+    "label": "Gestão Portuária"
+  },
+  {
+    "value": 93,
+    "label": "História"
+  },
+  {
+    "value": 94,
+    "label": "Horticultura"
+  },
+  {
+    "value": 95,
+    "label": "Jornalismo"
+  },
+  {
+    "value": 96,
+    "label": "Letras"
+  },
+  {
+    "value": 97,
+    "label": "Logística"
+  },
+  {
+    "value": 98,
+    "label": "Manutenção Industrial"
+  },
+  {
+    "value": 99,
+    "label": "Matemática"
+  },
+  {
+    "value": 100,
+    "label": "Mecatrônica e Mecânica de Precisão"
+  },
+  {
+    "value": 101,
+    "label": "Medicina"
+  },
+  {
+    "value": 102,
+    "label": "Medicina Veterinária"
+  },
+  {
+    "value": 103,
+    "label": "Meliponicultura"
+  },
+  {
+    "value": 104,
+    "label": "Mercadologia"
+  },
+  {
+    "value": 105,
+    "label": "Meteorologia"
+  },
+  {
+    "value": 106,
+    "label": "Mineração"
+  },
+  {
+    "value": 107,
+    "label": "Museologia"
+  },
+  {
+    "value": 108,
+    "label": "Música"
+  },
+  {
+    "value": 109,
+    "label": "Negócios Imobiliários"
+  },
+  {
+    "value": 110,
+    "label": "Nutrição"
+  },
+  {
+    "value": 111,
+    "label": "Odontologia"
+  },
+  {
+    "value": 112,
+    "label": "Oftálmica"
+  },
+  {
+    "value": 113,
+    "label": "Processamento de Dados"
+  },
+  {
+    "value": 114,
+    "label": "Processos Escolares"
+  },
+  {
+    "value": 115,
+    "label": "Processos Metalúrgicos"
+  },
+  {
+    "value": 116,
+    "label": "Produção de Aguardente"
+  },
+  {
+    "value": 117,
+    "label": "Produção de Laticínios"
+  },
+  {
+    "value": 118,
+    "label": "Produção de Materiais Plásticos"
+  },
+  {
+    "value": 119,
+    "label": "Produção Fonográfica"
+  },
+  {
+    "value": 120,
+    "label": "Produção Sucroalcooeira"
+  },
+  {
+    "value": 121,
+    "label": "Produção Têxtil"
+  },
+  {
+    "value": 122,
+    "label": "Projetos de Estruturas Aeronáuticas"
+  },
+  {
+    "value": 123,
+    "label": "Psicologia"
+  },
+  {
+    "value": 124,
+    "label": "Publicidade e Propaganda"
+  },
+  {
+    "value": 125,
+    "label": "Química"
+  },
+  {
+    "value": 126,
+    "label": "Radio, TV, Internet"
+  },
+  {
+    "value": 127,
+    "label": "Radiologia"
+  },
+  {
+    "value": 128,
+    "label": "Recursos Humanos"
+  },
+  {
+    "value": 129,
+    "label": "Redes de Computadores"
+  },
+  {
+    "value": 130,
+    "label": "Redes de Telecomunicações"
+  },
+  {
+    "value": 131,
+    "label": "Relações Internacionais"
+  },
+  {
+    "value": 132,
+    "label": "Relações Públicas"
+  },
+  {
+    "value": 133,
+    "label": "Saneamento Ambiental"
+  },
+  {
+    "value": 134,
+    "label": "Secretariado"
+  },
+  {
+    "value": 135,
+    "label": "Secretariado Executivo"
+  },
+  {
+    "value": 136,
+    "label": "Segurança da Informação"
+  },
+  {
+    "value": 137,
+    "label": "Segurança no Trabalho"
+  },
+  {
+    "value": 138,
+    "label": "Serviço Social"
+  },
+  {
+    "value": 139,
+    "label": "Silvicultura"
+  },
+  {
+    "value": 140,
+    "label": "Sistemas Biomédicos"
+  },
+  {
+    "value": 141,
+    "label": "Sistemas da Informação"
+  },
+  {
+    "value": 142,
+    "label": "Sistemas de Navegação Fluvial"
+  },
+  {
+    "value": 143,
+    "label": "Sistemas Elétricos"
+  },
+  {
+    "value": 144,
+    "label": "Sistemas Embarcados"
+  },
+  {
+    "value": 145,
+    "label": "Sistemas para Internet"
+  },
+  {
+    "value": 146,
+    "label": "Teatro"
+  },
+  {
+    "value": 147,
+    "label": "Telemática"
+  },
+  {
+    "value": 148,
+    "label": "Teologia"
+  },
+  {
+    "value": 149,
+    "label": "Terapia Ocupacional"
+  },
+  {
+    "value": 150,
+    "label": "Transporte Aéreo"
+  },
+  {
+    "value": 151,
+    "label": "Turismo"
+  },
+  {
+    "value": 152,
+    "label": "Zootecnia"
+  },
+  {
+    "value": 153,
+    "label": "Pedagogia"
+  }
+]

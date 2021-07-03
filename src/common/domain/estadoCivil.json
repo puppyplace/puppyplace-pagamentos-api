@@ -1,0 +1,7 @@
+[
+  { "value": 1, "label": "Solteiro" },
+  { "value": 2, "label": "União Estável" },
+  { "value": 3, "label": "Casado" },
+  { "value": 4, "label": "Divorciado" },
+  { "value": 5, "label": "Viúvo" }
+]

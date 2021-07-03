@@ -1,0 +1,6 @@
+[
+  { "value": 1, "label": "Sim, tenho tenho habilitação e experiência em dirigir carros"},
+  { "value": 2, "label": "Sim, tenho habilitação, porém não tenho muita experiência em dirigir carros"},
+  { "value": 3, "label": "Sim, tenho habilitação, mas não sei dirigir" },
+  { "value": 4, "label": "Não tenho habilitação e não dirijo carros" }
+]

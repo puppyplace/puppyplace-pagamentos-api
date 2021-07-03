@@ -1,0 +1,14 @@
+[
+  { "id": 1, "value": "Cardiopatias", "label": "Cardiopatias" },
+  { "id": 2, "value": "Diabetes", "label": "Diabetes" },
+  { "id": 3, "value": "Asma", "label": "Asma" },
+  { "id": 4, "value": "Sonambulismo", "label": "Sonambulismo" },
+  { "id": 5, "value": "Epilepsia", "label": "Epilepsia" },
+  { "id": 6, "value": "Desmaios", "label": "Desmaios" },
+  { "id": 7, "value": "Enchaqueca", "label": "Enchaqueca" },
+  { "id": 8, "value": "Sinusite", "label": "Sinusite" },
+  { "id": 9, "value": "Dor de ouvido", "label": "Dor de ouvido" },
+  { "id": 10, "value": "Câncer", "label": "Câncer" },
+  { "id": 11, "value": "Hemofilia", "label": "Hemofilia" },
+  { "id": 12, "value": "Rinite Alérgica", "label": "Rinite Alérgica" }
+]
